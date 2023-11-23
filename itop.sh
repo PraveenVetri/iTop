@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Welcome to the installation script"
 echo "iTop installation is begins"
 apt update
 
